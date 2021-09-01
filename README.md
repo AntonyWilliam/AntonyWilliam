@@ -1,4 +1,4 @@
-### Ola! 👋
+### Olá! 👋
 - 🌱 Atualmente meu foco de estudos e FrontEnd, JavaScript, HTML5 e CSS3
 - 📫 Contate no e-mail: antonyramalho17@gmail.com
  <div>
