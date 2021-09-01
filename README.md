@@ -1,5 +1,5 @@
 ### Olá! 👋
-- 🌱 Atualmente meu foco de estudos e FrontEnd, JavaScript, HTML5 e CSS3
+- 🌱 Atualmente meu foco de estudos e FrontEnd, JS, HTML5 e CSS3
 - 📫 Contate no e-mail: antonyramalho17@gmail.com
  <div>
   <a href="https://github.com/antonywilliam">
