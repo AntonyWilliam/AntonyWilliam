@@ -1,5 +1,4 @@
 ### Olá! 👋
-- 🌱 Atualmente meu foco de estudos e Front-End, JS, HTML5 e CSS3
 - 📫 E-mail: antonyramalho17@gmail.com
  <div>
   <a href="https://github.com/antonywilliam">
