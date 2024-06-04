@@ -1,7 +1,7 @@
 ### Olá! 👋
 - 📫 E-mail: antonyramalhodev@gmail.com
 
-https://docs.google.com/document/d/1Y0EeIODfqzHW-kBWEkWLT5WJnJ6xbSuxhbwaYgVHyag/edit?usp=sharing
+[Currículo](https://drive.google.com/file/d/1pfkpSjHQy0ulQt6-KunagWaWthZ_fUxM/view?usp=drive_link)
  <div>
   <a href="https://github.com/antonywilliam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonywilliam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
